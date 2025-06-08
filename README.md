@@ -29,8 +29,11 @@ Explore cuisines and cooking styles for special occasions
 
 ### Clone the repo:
 git clone https://github.com/hellydiyora/ChefSpot.git
+
 Move the folder to your htdocs directory (if using XAMPP)
+
 Start Apache and MySQL via XAMPP Control Panel
+
 Import the database (if available) via phpMyAdmin
 
 ### Navigate to:
