@@ -26,24 +26,15 @@ Connect with local or freelance culinary professionals
 Explore cuisines and cooking styles for special occasions
 
 # Getting Started (Local Setup)
-Clone the repo:
 
-bash
-Copy
-Edit
+### Clone the repo:
 git clone https://github.com/hellydiyora/ChefSpot.git
 Move the folder to your htdocs directory (if using XAMPP)
-
 Start Apache and MySQL via XAMPP Control Panel
-
 Import the database (if available) via phpMyAdmin
 
-Navigate to:
-
-arduino
-Copy
-Edit
+### Navigate to:
 http://localhost/ChefSpot/
 
 # Contact
-For questions or collaborations: hellydiyora@gmail.com
+For questions or collaborations: hellydiyora16@gmail.com
